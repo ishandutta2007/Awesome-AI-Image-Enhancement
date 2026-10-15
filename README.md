@@ -4,11 +4,13 @@
 
 # 🚀 Awesome AI Image Enhancement
 
+<a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![GitHub stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-AI-Image-Enhancement?style=social&color=white)](https://github.com/ishandutta2007/Awesome-AI-Image-Enhancement/stargazers)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/ishandutta2007/Awesome-AI-Image-Enhancement)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/ishandutta2007/Awesome-AI-Image-Enhancement/blob/main/README.md#how-to-contribute)
+<a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 
 **The definitive curated directory of SOTA Artificial Intelligence Image Enhancement technologies, deep-learning super-resolution models, blind face restoration algorithms, and commercial SaaS platforms.**
 
@@ -30,6 +32,8 @@
 - [🔬 Benchmarks & Model Architecture Breakdown](#-benchmarks--model-architecture-breakdown)
 - [🛠️ Production Integration Architecture](#️-production-integration-architecture)
 - [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support & Sponsoring](#-support--sponsoring)
+- [🌟 Star History](#-star-history)
 - [⚖️ Ethics, Licensing & Disclaimer](#️-ethics-licensing--disclaimer)
 
 ---
@@ -206,6 +210,25 @@ Contributions from researchers, developers, and photographers are very welcome!
    - For **SaaS**: Include official link, capabilities, company scale, specific starting tier price, and specific free tier allowance.
    - For **Open-Source**: Include official GitHub link, description, license, and dynamic star badge linked to stargazers.
 4. 📬 **Submit a Pull Request** with a concise description of your addition.
+
+---
+
+## 💖 Support
+
+A heartfelt thank you to everyone exploring, starring, and using this curated directory! If this ecosystem guide has helped your photography workflow, computer vision research, or engineering stack, please consider supporting the project:
+
+- ⭐ **Star the repository** to boost visibility across the open-source community.
+- 🍴 **Fork and contribute** new models, benchmarks, and updates.
+- 📢 **Share** with colleagues and creators working on AI image restoration.
+- ☕ **Buy me a coffee & sponsor:** Ongoing maintenance, curation, and benchmarking take time and GPU compute. You can support this work directly via the [GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007).
+
+<a href="https://github.com/sponsors/ishandutta2007"><img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-pink?style=for-the-badge&logo=github-sponsors&logoColor=white" alt="Sponsor on GitHub" /></a>
+
+---
+
+## 🌟 Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-AI-Image-Enhancement&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-AI-Image-Enhancement&type=date&legend=top-left)
 
 ---
 

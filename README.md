@@ -6,7 +6,7 @@
 
 <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![GitHub stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-AI-Image-Enhancement?style=social&color=white)](https://github.com/ishandutta2007/Awesome-AI-Image-Enhancement/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-AI-Image-Enhancement?style=social&color=white)](https://github.com/ishandutta2007/Awesome-AI-Image-Enhancement/stargazers)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/ishandutta2007/Awesome-AI-Image-Enhancement)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/ishandutta2007/Awesome-AI-Image-Enhancement/blob/main/README.md#how-to-contribute)
@@ -73,87 +73,87 @@
 ## 💻 Open-Source GitHub Projects
 
 > [!TIP]  
-> All repositories below are **strictly ranked by GitHub Star count (descending)**. Star count badges update dynamically and link straight to each repository's stargazers community page.
+> All repositories below are **strictly ranked by GitHub Stars_Count (descending)**. Stars_Count badges update dynamically and link straight to each repository's stargazers community page.
 
-- **[Upscayl](https://github.com/upscayl/upscayl)** [![GitHub stars](https://img.shields.io/github/stars/upscayl/upscayl?style=social&color=white)](https://github.com/upscayl/upscayl/stargazers)  
+- **[Upscayl](https://github.com/upscayl/upscayl)** [![GitHub_Stars](https://img.shields.io/github/stars/upscayl/upscayl?style=social&color=white)](https://github.com/upscayl/upscayl/stargazers)  
   **#1 Free and Open Source AI Image Upscaler for Linux, macOS, and Windows.** A standalone Electron/Vulkan desktop application that runs completely offline. Employs advanced deep-learning algorithms (Real-ESRGAN, Remacri, Ultramix) for local multi-scale image enhancement without uploading data to third-party servers. *(License: AGPL-3.0)*
 
-- **[GFPGAN](https://github.com/TencentARC/GFPGAN)** [![GitHub stars](https://img.shields.io/github/stars/TencentARC/GFPGAN?style=social&color=white)](https://github.com/TencentARC/GFPGAN/stargazers)  
+- **[GFPGAN](https://github.com/TencentARC/GFPGAN)** [![GitHub_Stars](https://img.shields.io/github/stars/TencentARC/GFPGAN?style=social&color=white)](https://github.com/TencentARC/GFPGAN/stargazers)  
   **Practical Algorithm for Real-world Blind Face Restoration by Tencent ARC.** Leverages rich and diverse priors encapsulated in a pretrained StyleGAN to restore degraded, heavily blurred, low-resolution facial portraits while maintaining real identity fidelity. *(License: Apache-2.0)*
 
-- **[Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN)** [![GitHub stars](https://img.shields.io/github/stars/xinntao/Real-ESRGAN?style=social&color=white)](https://github.com/xinntao/Real-ESRGAN/stargazers)  
+- **[Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN)** [![GitHub_Stars](https://img.shields.io/github/stars/xinntao/Real-ESRGAN?style=social&color=white)](https://github.com/xinntao/Real-ESRGAN/stargazers)  
   **Practical Algorithms for General Image and Video Restoration.** Trains pure synthetic degradation models to tackle complex real-world artifacts. Includes portable binaries for Windows, Linux, and macOS, alongside specialized models such as `RealESRGAN_x4plus_anime_6B` and `AnimeVideo-v3`. *(License: BSD-3-Clause)*
 
-- **[waifu2x](https://github.com/nagadomi/waifu2x)** [![GitHub stars](https://img.shields.io/github/stars/nagadomi/waifu2x?style=social&color=white)](https://github.com/nagadomi/waifu2x/stargazers)  
+- **[waifu2x](https://github.com/nagadomi/waifu2x)** [![GitHub_Stars](https://img.shields.io/github/stars/nagadomi/waifu2x?style=social&color=white)](https://github.com/nagadomi/waifu2x/stargazers)  
   **Pioneering Deep Convolutional Neural Networks for Anime-Style Art.** The iconic open-source image upscaler and noise reducer inspired by SRCNN. Remains one of the fastest, most dependable solutions for line-art super-resolution and 2D illustration upscaling. *(License: MIT)*
 
-- **[IOPaint](https://github.com/Sanster/IOPaint)** [![GitHub stars](https://img.shields.io/github/stars/Sanster/IOPaint?style=social&color=white)](https://github.com/Sanster/IOPaint/stargazers)  
+- **[IOPaint](https://github.com/Sanster/IOPaint)** [![GitHub_Stars](https://img.shields.io/github/stars/Sanster/IOPaint?style=social&color=white)](https://github.com/Sanster/IOPaint/stargazers)  
   **State-of-the-art Image Inpainting & Restoration Suite** *(formerly Lama-Cleaner)*. Completely free, open-source, and fully self-hosted tool powered by cutting-edge models (LaMa, Stable Diffusion, ControlNet, MAT) to erase unwanted objects, defects, text, and restore missing sections in high resolution. *(License: Apache-2.0)*
 
-- **[CodeFormer](https://github.com/sczhou/CodeFormer)** [![GitHub stars](https://img.shields.io/github/stars/sczhou/CodeFormer?style=social&color=white)](https://github.com/sczhou/CodeFormer/stargazers)  
+- **[CodeFormer](https://github.com/sczhou/CodeFormer)** [![GitHub_Stars](https://img.shields.io/github/stars/sczhou/CodeFormer?style=social&color=white)](https://github.com/sczhou/CodeFormer/stargazers)  
   **Robust Blind Face Restoration with Codebook Lookup Transformer (NeurIPS 2022).** Casts blind face restoration as a codebook lookup task to reduce degradation uncertainty. Produces natural facial details with minimal artifact hallucinations and provides controllable fidelity-vs-quality trade-offs. *(License: NTU S-Lab License)*
 
-- **[BasicSR](https://github.com/XPixelGroup/BasicSR)** [![GitHub stars](https://img.shields.io/github/stars/XPixelGroup/BasicSR?style=social&color=white)](https://github.com/XPixelGroup/BasicSR/stargazers)  
+- **[BasicSR](https://github.com/XPixelGroup/BasicSR)** [![GitHub_Stars](https://img.shields.io/github/stars/XPixelGroup/BasicSR?style=social&color=white)](https://github.com/XPixelGroup/BasicSR/stargazers)  
   **Open Source Image and Video Restoration Toolbox.** The foundational PyTorch framework powering research across super-resolution, denoising, and deblurring. Supports leading architectures including EDSR, RCAN, SRResNet, SRGAN, ESRGAN, EDVR, SwinIR, ECBSR, and StyleGAN2. *(License: Apache-2.0)*
 
-- **[ESRGAN](https://github.com/xinntao/ESRGAN)** [![GitHub stars](https://img.shields.io/github/stars/xinntao/ESRGAN?style=social&color=white)](https://github.com/xinntao/ESRGAN/stargazers)  
+- **[ESRGAN](https://github.com/xinntao/ESRGAN)** [![GitHub_Stars](https://img.shields.io/github/stars/xinntao/ESRGAN?style=social&color=white)](https://github.com/xinntao/ESRGAN/stargazers)  
   **Enhanced Super-Resolution Generative Adversarial Networks (ECCV 2018).** Winner of the PIRM Challenge on Perceptual Super-Resolution. Introduced Residual-in-Residual Dense Blocks (RRDB) and relativistic GAN loss, serving as the architectural blueprint for modern SR models. *(License: Apache-2.0)*
 
-- **[chaiNNer](https://github.com/chaiNNer-org/chaiNNer)** [![GitHub stars](https://img.shields.io/github/stars/chaiNNer-org/chaiNNer?style=social&color=white)](https://github.com/chaiNNer-org/chaiNNer/stargazers)  
+- **[chaiNNer](https://github.com/chaiNNer-org/chaiNNer)** [![GitHub_Stars](https://img.shields.io/github/stars/chaiNNer-org/chaiNNer?style=social&color=white)](https://github.com/chaiNNer-org/chaiNNer/stargazers)  
   **Node-Based Image Processing GUI for Chaining AI Upscaling & Restoration Tasks.** Highly modular desktop application enabling users to construct custom pipelines combining multiple PyTorch, ONNX, and NCNN super-resolution models, color correction, and format pipelines. *(License: GPL-3.0)*
 
-- **[SUPIR](https://github.com/Fanghua-Yu/SUPIR)** [![GitHub stars](https://img.shields.io/github/stars/Fanghua-Yu/SUPIR?style=social&color=white)](https://github.com/Fanghua-Yu/SUPIR/stargazers)  
+- **[SUPIR](https://github.com/Fanghua-Yu/SUPIR)** [![GitHub_Stars](https://img.shields.io/github/stars/Fanghua-Yu/SUPIR?style=social&color=white)](https://github.com/Fanghua-Yu/SUPIR/stargazers)  
   **Scaling Up Practical Algorithms for Photo-Realistic Image Restoration In the Wild.** Harnesses massive generative diffusion model priors (SDXL) and text guidance to perform unprecedented high-detail photo restoration on severely degraded real-world images. *(License: Apache-2.0)*
 
-- **[SwinIR](https://github.com/JingyunLiang/SwinIR)** [![GitHub stars](https://img.shields.io/github/stars/JingyunLiang/SwinIR?style=social&color=white)](https://github.com/JingyunLiang/SwinIR/stargazers)  
+- **[SwinIR](https://github.com/JingyunLiang/SwinIR)** [![GitHub_Stars](https://img.shields.io/github/stars/JingyunLiang/SwinIR?style=social&color=white)](https://github.com/JingyunLiang/SwinIR/stargazers)  
   **Image Restoration Using Swin Transformer.** Integrates content-aware shifted window self-attention for classical, lightweight, and real-world image super-resolution, JPEG artifact reduction, and grayscale/color denoising with fewer parameters. *(License: Apache-2.0)*
 
-- **[DiffBIR](https://github.com/XPixelGroup/DiffBIR)** [![GitHub stars](https://img.shields.io/github/stars/XPixelGroup/DiffBIR?style=social&color=white)](https://github.com/XPixelGroup/DiffBIR/stargazers)  
+- **[DiffBIR](https://github.com/XPixelGroup/DiffBIR)** [![GitHub_Stars](https://img.shields.io/github/stars/XPixelGroup/DiffBIR?style=social&color=white)](https://github.com/XPixelGroup/DiffBIR/stargazers)  
   **Towards Blind Image Restoration with Generative Diffusion Prior (ECCV 2024).** Leverages Stable Diffusion priors via a two-stage degradation-removal and generation pipeline to achieve remarkable photorealism in blind super-resolution and face recovery. *(License: Apache-2.0)*
 
-- **[KAIR](https://github.com/cszn/KAIR)** [![GitHub stars](https://img.shields.io/github/stars/cszn/KAIR?style=social&color=white)](https://github.com/cszn/KAIR/stargazers)  
+- **[KAIR](https://github.com/cszn/KAIR)** [![GitHub_Stars](https://img.shields.io/github/stars/cszn/KAIR?style=social&color=white)](https://github.com/cszn/KAIR/stargazers)  
   **PyTorch Image Restoration Toolbox.** Comprehensive research codebase covering deep plug-and-play priors and popular restoration benchmarks including DPIR, USRNet, DnCNN, FFDNet, SRMD, DPSR, BSRGAN, and SwinIR. *(License: MIT)*
 
-- **[NAFNet](https://github.com/megvii-research/NAFNet)** [![GitHub stars](https://img.shields.io/github/stars/megvii-research/NAFNet?style=social&color=white)](https://github.com/megvii-research/NAFNet/stargazers)  
+- **[NAFNet](https://github.com/megvii-research/NAFNet)** [![GitHub_Stars](https://img.shields.io/github/stars/megvii-research/NAFNet?style=social&color=white)](https://github.com/megvii-research/NAFNet/stargazers)  
   **Nonlinear Activation Free Network for Image Restoration (ECCV 2022).** A groundbreaking architecture proving that complex nonlinear activations (GELU, ReLU) can be replaced with simple multiplications, achieving state-of-the-art deblurring and denoising at unprecedented compute efficiency. *(License: Apache-2.0)*
 
-- **[Awesome-Super-Resolution](https://github.com/ChaofWang/Awesome-Super-Resolution)** [![GitHub stars](https://img.shields.io/github/stars/ChaofWang/Awesome-Super-Resolution?style=social&color=white)](https://github.com/ChaofWang/Awesome-Super-Resolution/stargazers)  
+- **[Awesome-Super-Resolution](https://github.com/ChaofWang/Awesome-Super-Resolution)** [![GitHub_Stars](https://img.shields.io/github/stars/ChaofWang/Awesome-Super-Resolution?style=social&color=white)](https://github.com/ChaofWang/Awesome-Super-Resolution/stargazers)  
   **Curated Repository of Super-Resolution Papers, Datasets, and Repositories.** Comprehensive academic index tracking advances from classical CNN-based SR through attention, transformer, and generative diffusion paradigms. *(License: MIT)*
 
-- **[StableSR](https://github.com/IceClear/StableSR)** [![GitHub stars](https://img.shields.io/github/stars/IceClear/StableSR?style=social&color=white)](https://github.com/IceClear/StableSR/stargazers)  
+- **[StableSR](https://github.com/IceClear/StableSR)** [![GitHub_Stars](https://img.shields.io/github/stars/IceClear/StableSR?style=social&color=white)](https://github.com/IceClear/StableSR/stargazers)  
   **Exploiting Diffusion Prior for Real-World Image Super-Resolution (IJCV 2024).** Employs a time-aware encoder to adapt continuous diffusion models for real-world super-resolution without fine-tuning the base diffusion weights. *(License: MIT)*
 
-- **[Restormer](https://github.com/swz30/Restormer)** [![GitHub stars](https://img.shields.io/github/stars/swz30/Restormer?style=social&color=white)](https://github.com/swz30/Restormer/stargazers)  
+- **[Restormer](https://github.com/swz30/Restormer)** [![GitHub_Stars](https://img.shields.io/github/stars/swz30/Restormer?style=social&color=white)](https://github.com/swz30/Restormer/stargazers)  
   **Efficient Transformer for High-Resolution Image Restoration (CVPR 2022 Oral).** Key innovations include multi-Dconv transposed attention and gated-Dconv feed-forward networks, establishing gold-standard results for motion deblurring, image deraining, and Gaussian/real denoising. *(License: MIT)*
 
-- **[HAT](https://github.com/XPixelGroup/HAT)** [![GitHub stars](https://img.shields.io/github/stars/XPixelGroup/HAT?style=social&color=white)](https://github.com/XPixelGroup/HAT/stargazers)  
+- **[HAT](https://github.com/XPixelGroup/HAT)** [![GitHub_Stars](https://img.shields.io/github/stars/XPixelGroup/HAT?style=social&color=white)](https://github.com/XPixelGroup/HAT/stargazers)  
   **Activating More Pixels in Image Super-Resolution Transformer (CVPR 2023 / TPAMI).** Hybrid Attention Transformer combining channel attention and window-based self-attention to aggregate cross-scale information and activate a larger receptive pixel field. *(License: Apache-2.0)*
 
-- **[ResShift](https://github.com/zsyOAOA/ResShift)** [![GitHub stars](https://img.shields.io/github/stars/zsyOAOA/ResShift?style=social&color=white)](https://github.com/zsyOAOA/ResShift/stargazers)  
+- **[ResShift](https://github.com/zsyOAOA/ResShift)** [![GitHub_Stars](https://img.shields.io/github/stars/zsyOAOA/ResShift?style=social&color=white)](https://github.com/zsyOAOA/ResShift/stargazers)  
   **Efficient Diffusion Model for Image Super-Resolution by Residual Shifting (NeurIPS 2023 / TPAMI 2024).** Dramatically reduces diffusion sampling requirements to as few as 15 iterative steps by shifting the residual distribution between degraded inputs and target ground truth. *(License: Apache-2.0)*
 
-- **[MPRNet](https://github.com/swz30/MPRNet)** [![GitHub stars](https://img.shields.io/github/stars/swz30/MPRNet?style=social&color=white)](https://github.com/swz30/MPRNet/stargazers)  
+- **[MPRNet](https://github.com/swz30/MPRNet)** [![GitHub_Stars](https://img.shields.io/github/stars/swz30/MPRNet?style=social&color=white)](https://github.com/swz30/MPRNet/stargazers)  
   **Multi-Stage Progressive Image Restoration (CVPR 2021).** Multi-stage architecture decomposing restoration into contextual sub-tasks: early stages extract multi-scale context while the final stage operates on full resolution to preserve spatial detail. *(License: MIT)*
 
-- **[Uformer](https://github.com/ZhendongWang6/Uformer)** [![GitHub stars](https://img.shields.io/github/stars/ZhendongWang6/Uformer?style=social&color=white)](https://github.com/ZhendongWang6/Uformer/stargazers)  
+- **[Uformer](https://github.com/ZhendongWang6/Uformer)** [![GitHub_Stars](https://img.shields.io/github/stars/ZhendongWang6/Uformer?style=social&color=white)](https://github.com/ZhendongWang6/Uformer/stargazers)  
   **A General U-Shaped Transformer for Image Restoration (CVPR 2022).** Combines the hierarchical multiscale benefits of U-Net with local enhanced window self-attention blocks for deblurring, denoising, and deraining. *(License: MIT)*
 
-- **[InstructIR](https://github.com/mv-lab/InstructIR)** [![GitHub stars](https://img.shields.io/github/stars/mv-lab/InstructIR?style=social&color=white)](https://github.com/mv-lab/InstructIR/stargazers)  
+- **[InstructIR](https://github.com/mv-lab/InstructIR)** [![GitHub_Stars](https://img.shields.io/github/stars/mv-lab/InstructIR?style=social&color=white)](https://github.com/mv-lab/InstructIR/stargazers)  
   **High-Quality Image Restoration Following Human Instructions (ECCV 2024).** Groundbreaking model enabling users to supply natural language prompts (e.g., *"remove the camera blur and enhance the lighting"*) to steer all-in-one restoration. *(License: Apache-2.0)*
 
-- **[Swin2SR](https://github.com/mv-lab/swin2sr)** [![GitHub stars](https://img.shields.io/github/stars/mv-lab/swin2sr?style=social&color=white)](https://github.com/mv-lab/swin2sr/stargazers)  
+- **[Swin2SR](https://github.com/mv-lab/swin2sr)** [![GitHub_Stars](https://img.shields.io/github/stars/mv-lab/swin2sr?style=social&color=white)](https://github.com/mv-lab/swin2sr/stargazers)  
   **SwinV2 Transformer for Compressed Image Super-Resolution (ECCV 2022).** Specialized for JPEG compression degradation, high dynamic range images, and extreme low-bitrate restoration. *(License: Apache-2.0)*
 
-- **[SeeSR](https://github.com/cswry/SeeSR)** [![GitHub stars](https://img.shields.io/github/stars/cswry/SeeSR?style=social&color=white)](https://github.com/cswry/SeeSR/stargazers)  
+- **[SeeSR](https://github.com/cswry/SeeSR)** [![GitHub_Stars](https://img.shields.io/github/stars/cswry/SeeSR?style=social&color=white)](https://github.com/cswry/SeeSR/stargazers)  
   **Towards Semantics-Aware Real-World Image Super-Resolution (CVPR 2024).** Integrates semantic tag embeddings with diffusion generative priors to prevent semantic distortions and preserve object fidelity. *(License: Apache-2.0)*
 
-- **[Awesome-Denoise](https://github.com/oneTaken/Awesome-Denoise)** [![GitHub stars](https://img.shields.io/github/stars/oneTaken/Awesome-Denoise?style=social&color=white)](https://github.com/oneTaken/Awesome-Denoise/stargazers)  
+- **[Awesome-Denoise](https://github.com/oneTaken/Awesome-Denoise)** [![GitHub_Stars](https://img.shields.io/github/stars/oneTaken/Awesome-Denoise?style=social&color=white)](https://github.com/oneTaken/Awesome-Denoise/stargazers)  
   **Curated Index of Image, Burst, and Video Denoising Papers.** High-yield reference cataloging benchmark datasets, noise modeling formulations, and code implementations from top computer vision conferences. *(License: MIT)*
 
-- **[Awesome-Face-Restoration](https://github.com/TaoWangzj/Awesome-Face-Restoration)** [![GitHub stars](https://img.shields.io/github/stars/TaoWangzj/Awesome-Face-Restoration?style=social&color=white)](https://github.com/TaoWangzj/Awesome-Face-Restoration/stargazers)  
+- **[Awesome-Face-Restoration](https://github.com/TaoWangzj/Awesome-Face-Restoration)** [![GitHub_Stars](https://img.shields.io/github/stars/TaoWangzj/Awesome-Face-Restoration?style=social&color=white)](https://github.com/TaoWangzj/Awesome-Face-Restoration/stargazers)  
   **Exhaustive Collection of Face Restoration Methods.** Categorizes landmark-guided, reference-based, dictionary-based, StyleGAN prior, and diffusion-based blind face reconstruction repositories. *(License: MIT)*
 
-- **[Face-Upscalers-ONNX](https://github.com/harisreedhar/Face-Upscalers-ONNX)** [![GitHub stars](https://img.shields.io/github/stars/harisreedhar/Face-Upscalers-ONNX?style=social&color=white)](https://github.com/harisreedhar/Face-Upscalers-ONNX/stargazers)  
+- **[Face-Upscalers-ONNX](https://github.com/harisreedhar/Face-Upscalers-ONNX)** [![GitHub_Stars](https://img.shields.io/github/stars/harisreedhar/Face-Upscalers-ONNX?style=social&color=white)](https://github.com/harisreedhar/Face-Upscalers-ONNX/stargazers)  
   **Optimized ONNX Runtimes for SOTA Face Upscaling Models.** Portable, zero-CUDA dependency inference scripts for deploying GFPGAN, RestoreFormer, and CodeFormer across CPU and DirectML hardware. *(License: MIT)*
 
 ---
@@ -208,7 +208,7 @@ Contributions from researchers, developers, and photographers are very welcome!
 2. 🌿 **Create a descriptive feature branch** (`git checkout -b feat/add-new-enhancer`).
 3. 📝 **Add your tool or model** to `README.md` following existing format:
    - For **SaaS**: Include official link, capabilities, company scale, specific starting tier price, and specific free tier allowance.
-   - For **Open-Source**: Include official GitHub link, description, license, and dynamic star badge linked to stargazers.
+   - For **Open-Source**: Include official GitHub link, description, license, and dynamic Stars_Badge linked to stargazers.
 4. 📬 **Submit a Pull Request** with a concise description of your addition.
 
 ---
